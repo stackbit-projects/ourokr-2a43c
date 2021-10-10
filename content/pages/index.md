@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 测试okr系统
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 5分钟测试
     actions:
       - label: Try for free
         url: /pricing
