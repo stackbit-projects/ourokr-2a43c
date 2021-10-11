@@ -315,7 +315,6 @@ models:
   category:
     type: data
     label: Category
-    folder: categories
     fields:
       - type: string
         name: id
