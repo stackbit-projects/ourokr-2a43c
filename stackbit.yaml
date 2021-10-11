@@ -330,8 +330,6 @@ models:
         label: Title
         required: true
         description: The title of the category
-    singleInstance: true
-    file: ''
   tag:
     type: data
     label: Tag
